@@ -10,7 +10,7 @@ To develop a neural network regression model for the given dataset.
 
 ## Neural Network Model
 
-![output](./neuralnetwork.png)
+![output](nn.svg)
 
 ## DESIGN STEPS
 
